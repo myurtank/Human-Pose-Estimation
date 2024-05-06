@@ -10,7 +10,7 @@ This repository contains scripts and resources for Human Pose Estimation using O
 - **output_video.avi:** Output video with pose estimation overlay.
 - **single_man.png:** Another example input image.
 - **single_man_Openpose.png:** Output image with pose estimation overlay.
-- - **CS_Single_man.png:** Confidence score of single men neutral pose.
+- **CS_Single_man.png:** Confidence score of single men neutral pose.
 
 
 ## Usage
